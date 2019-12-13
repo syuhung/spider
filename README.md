@@ -23,8 +23,8 @@
 * noverls.py:《笔趣阁》盗版小说网站，网站不需登录可直接观看
 	第三方依赖库安装：
 
-		`pip3 install beautifulsoup4`
+		pip3 install beautifulsoup4
 
 	使用方法:
-	
-		`python3 noverls.py`
+
+		python3 noverls.py
